@@ -2,10 +2,10 @@
 
 <img src="assets/banner.svg" alt="Nolwazi Ntuli banner" width="100%" />
 
-<h1>Hey there, I'm Nolwazi Ntuli </h1>
+<h1> Hey there, I'm Nolwazi Ntuli </h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=AI+Developer+%7C+.NET+%7C+Azure;Bridging+Business+Strategy+%2B+Software+Engineering;Building+FunduLwazi+%F0%9F%9A%80;PDM+Candidate+%40+Wits+Business+School" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=AI+Developer+%7C+.NET+%7C+Azure;Building+AI-Powered+Business+Solutions;Building+FunduLwazi+;PDM+Candidate+%40+Wits+Business+School" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -73,7 +73,6 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nmm-ntuli&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&ring_color=FF69B4" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nmm-ntuli&theme=transparent&hide_border=true&background=00000000&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=EF93C4&currStreakNum=F8BBD0&sideNums=F8BBD0&dates=EF93C4" width="48%" />
 
 <br/>
 
