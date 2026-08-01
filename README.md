@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Nolwazi Ntuli banner" width="100%" />
+<img src="assets/banner.svg" alt="Nolwazi Ntuli banner" width="100%" />
 
 <h1>Hey there, I'm Nolwazi Ntuli 👋</h1>
 
@@ -24,25 +24,15 @@
 
 <br/>
 
-## 💫 About Me
+## About Me
 
-<table align="center">
-<tr>
-<td width="65%" valign="top">
 
-- 🤖 I build **AI-powered business applications** using **.NET** and **Azure**
-- 💼 I combine **business strategy** with **software development** to solve real problems, not just write code
-- 🎓 Currently completing my **Postgraduate Diploma in Management (PDM)** at **Wits Business School**
-- 🧠 I enjoy applying **AI and automation** to real-world business challenges
-- 🛠️ Currently building **FunduLwazi** — an AI-driven business application project
-- 📈 My edge: I understand both the **boardroom** and the **codebase**
-
-</td>
-<td width="35%" valign="top" align="center">
-<img src="./assets/profile.png" width="100%" style="border-radius: 12px;" alt="Nolwazi Ntuli" />
-</td>
-</tr>
-</table>
+- I build **AI-powered business applications** using **.NET** and **Azure**.
+- I combine **business strategy** with **software development** to solve real business problems.
+- Currently completing my **Postgraduate Diploma in Management (PDM)** at **Wits Business School**.
+- Passionate about **AI, cloud computing, automation, and intelligent business solutions**.
+- Currently building **FunduLwazi**, an AI-powered document intelligence platform.
+- My edge is combining strategic business thinking with practical software engineering.
 
 <br/>
 
@@ -106,36 +96,6 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 <div align="center">
 <img src="https://raw.githubusercontent.com/nmm-ntuli/nmm-ntuli/output/pink-snake.svg" alt="Contribution Snake animation" width="90%" />
 </div>
-
-<!--
-  Add this workflow at .github/workflows/snake.yml in your profile repo
-  to auto-generate the animated snake above from your contribution graph:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */6 * * *"
-    workflow_dispatch:
-    push:
-      branches:
-        - main
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: nmm-ntuli
-            outputs: |
-              dist/pink-snake.svg?palette=pink
-              dist/pink-snake-dark.svg?palette=pink&color_snake=%23FF69B4
-        - uses: crazy-max/ghaction-github-pages@v4
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 <br/>
 
