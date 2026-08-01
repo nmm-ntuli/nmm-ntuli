@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Nolwazi Ntuli banner" width="100%" />
 
-<h1 style="color:#F8AFCF;">Hello, I'm Nolwazi Ntuli </h1>
+<h1 style="color:#F8AFCF;">Hello, I'm Nolwazi Ntuli</h1>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=AI+Developer+%7C+.NET+%7C+Azure;Building+AI-Powered+Business+Solutions;Building+FunduLwazi+;PDM+Candidate+%40+Wits+Business+School" alt="Typing SVG"/>
