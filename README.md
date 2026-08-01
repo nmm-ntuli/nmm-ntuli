@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Nolwazi Ntuli banner" width="100%" />
 
-<h1 style="color:#F8AFCF;">Hello, I'm Nolwazi Ntuli</h1>
+<h1 style="center">Hello, I'm Nolwazi Ntuli</h1>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=AI+Developer+%7C+.NET+%7C+Azure;Building+AI-Powered+Business+Solutions;Building+FunduLwazi+;PDM+Candidate+%40+Wits+Business+School" alt="Typing SVG"/>
@@ -12,9 +12,6 @@
 
 <a href="https://github.com/nmm-ntuli?tab=followers">
   <img src="https://img.shields.io/github/followers/nmm-ntuli?label=Followers&style=for-the-badge&color=FF69B4&labelColor=0A1128" />
-</a>
-<a href="https://github.com/nmm-ntuli">
-  <img src="https://img.shields.io/github/stars/nmm-ntuli?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=0A1128" />
 </a>
 <a href="https://github.com/nmm-ntuli">
   <img src="https://komarev.com/ghpvc/?username=nmm-ntuli&label=Profile+Views&style=for-the-badge&color=EF93C4&labelColor=0A1128" />
@@ -42,7 +39,7 @@ About Me
 
  FunduLwazi
 
-An AI-powered business application built with **.NET** and **Azure**, bringing together intelligent automation and real business use cases.
+FunduLwazi is an AI-powered **document intelligence platform** built with **.NET** and **Azure**. It helps organisations automate document processing, extract valuable information, and streamline business workflows using modern AI services.
 
 <a href="https://fundulwazi-ethjdqbpgnbpbvek.southafricanorth-01.azurewebsites.net">
   <img src="https://img.shields.io/badge/Live%20Demo-FF69B4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -66,17 +63,6 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 
 </div>
 
-<br/>
-
- GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nmm-ntuli&show_icons=true&theme=transparent&hide_border=true&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&ring_color=FF69B4" width="48%" />
-
-<br/>
-
-</div>
 
 <br/>
 
@@ -139,5 +125,7 @@ I'm working toward a career as an **AI Developer / Business Technology Specialis
 </div>
 
 <div align="center">
-<sub>✨ Thanks for stopping by, let's build something intelligent together. ✨</sub>
+<sub> Thanks for visiting my GitHub profile.
+
+Let's build intelligent solutions together.</sub>
 </div>
