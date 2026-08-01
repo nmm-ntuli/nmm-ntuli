@@ -76,8 +76,6 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nmm-ntuli&theme=github-light&hide_border=true" width="97%" />
-
 </div>
 
 <br/>
