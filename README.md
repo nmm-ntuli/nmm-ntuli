@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Nolwazi Ntuli banner" width="100%" />
 
-<h1>Hey there, I'm Nolwazi Ntuli 👋</h1>
+<h1>Hey there, I'm Nolwazi Ntuli </h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=AI+Developer+%7C+.NET+%7C+Azure;Bridging+Business+Strategy+%2B+Software+Engineering;Building+FunduLwazi+%F0%9F%9A%80;PDM+Candidate+%40+Wits+Business+School" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 
 <br/>
 
-## About Me
+About Me
 
 
 - I build **AI-powered business applications** using **.NET** and **Azure**.
@@ -36,11 +36,11 @@
 
 <br/>
 
-## 🚀 Featured Project
+  Featured Project
 
 <div align="center">
 
-### FunduLwazi
+ FunduLwazi
 
 An AI-powered business application built with **.NET** and **Azure**, bringing together intelligent automation and real business use cases.
 
@@ -52,7 +52,7 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 
 <br/>
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 <div align="center">
 
@@ -68,7 +68,7 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 
 <br/>
 
-## 📊 GitHub Analytics
+ GitHub Analytics
 
 <div align="center">
 
@@ -83,41 +83,25 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 
 <br/>
 
-## 🏆 Top Languages
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmm-ntuli&layout=compact&theme=transparent&hide_border=true&title_color=FF69B4&text_color=F8BBD0" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/nmm-ntuli/nmm-ntuli/output/pink-snake.svg" alt="Contribution Snake animation" width="90%" />
-</div>
-
-<br/>
-
-## 🎓 Education & Certifications
+## Education & Certifications
 
 <table align="center">
 <tr>
 <td width="100%">
 
-**🏫 Postgraduate Diploma in Management (PDM) — Business Administration**
+**Postgraduate Diploma in Management (PDM) — Business Administration**
 <br/>Wits Business School · *In progress*
 
-**📜 Getting Started with Artificial Intelligence**
+**Getting Started with Artificial Intelligence**
 <br/>IBM SkillsBuild · 2026
 
-**📜 Web Development Fundamentals**
+**Web Development Fundamentals**
 <br/>IBM SkillsBuild · 2026
 
-**📜 AWS Cloud Practitioner Essentials**
+**AWS Cloud Practitioner Essentials**
 <br/>Amazon Web Services · 2026
 
-<sub>🔄 This section is updated as new certifications are earned.</sub>
+<sub> This section is updated as new certifications are earned.</sub>
 
 </td>
 </tr>
@@ -125,7 +109,7 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 
 <br/>
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -137,7 +121,7 @@ An AI-powered business application built with **.NET** and **Azure**, bringing t
 
 <br/>
 
-## 🎯 Career Goals
+## Career Goals
 
 <div align="center">
 <table width="85%">
